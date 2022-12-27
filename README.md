@@ -20,7 +20,10 @@
 <a name="learning-next"></a>
 
 ## 📖  What I am currently learning / improving on
+https://img.shields.io/badge/-ReactJS
 
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonkiETH)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔍  Where to find me
 
