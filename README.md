@@ -1,4 +1,7 @@
-### 👋🏻 Hi, I'm Juan Ignacio Ronquillo!
+# 👋🏻 Hi, I'm Juan Ignacio Ronquillo!
+
+## 💫 About Me:
+I'm 20 years old, and I'm currently studing to be a Full Stack Web Developer, also I'm a Crypto Enthusiast
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/juanigronquil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juanignacioronquillo/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@ronki.js) 
