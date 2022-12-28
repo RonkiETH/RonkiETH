@@ -1,4 +1,4 @@
-### 👋🏻 Hi, I'm Juan Ignacio Ronquillo 
+## 👋🏻 Hi, I'm Juan Ignacio Ronquillo 
 
 ## 💻 Tech Stack
 <h5 align="left"> Languages and Tools:</h3>
