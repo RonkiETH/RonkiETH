@@ -1,7 +1,7 @@
 # 👋🏻 Hi, I'm Juan Ignacio Ronquillo!
 
 ## 💫 About Me:
-I'm 20 years old, and I'm a content creator, currently studing to be a Full Stack Web Developer, and also a Crypto Enthusiast
+I'm 20 years old, and I'm a content creator, currently studing to be a Full Stack Web Developer, and also I'm a Crypto Enthusiast
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juanignacioronquillo/)
