@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎I'm a full-stack web developer from 🇦🇷 Argentina<br> All of my projects are available at https://ronki-portfolio.netlify.app/<br>🌱 I’m currently learning and improving TypeScript, Next.js and improving Node.js<br>📫 How to reach me ronquillojuanignacio@gmail.com
+😎I'm a full-stack web developer from Argentina<br> All of my projects are available at https://ronki-portfolio.netlify.app/<br>🌱 I’m currently learning and improving TypeScript, Next.js and improving Node.js<br>📫 How to reach me ronquillojuanignacio@gmail.com
 
 
 ## 🌐 Socials:
